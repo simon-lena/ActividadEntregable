@@ -6,3 +6,8 @@
 body {
     background-color: lightblue;
 }
+.miLista {
+    list-style-type: decimal;
+    font-family: Arial, sans-serif;
+    color: blue;
+}
